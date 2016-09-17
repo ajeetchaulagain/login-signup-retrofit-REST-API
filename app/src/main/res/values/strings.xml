@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LoginAndSignup</string>
+    <string name="key_username">username</string>
+    <string name="key_email">email</string>
+    <string name="key_faculty">faculty</string>
+    <string name="key_level">level</string>
+    <string name="app_year">year</string>
+
+
+</resources>
