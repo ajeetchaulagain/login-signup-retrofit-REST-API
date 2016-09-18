@@ -24,5 +24,7 @@ public class UserInfoActivity extends AppCompatActivity {
         tvFaculty = (TextView) findViewById(R.id.tvFaculty);
         tvYear = (TextView) findViewById(R.id.tvYear);
 
+
+
     }
 }
